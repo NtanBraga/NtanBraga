@@ -1,4 +1,4 @@
-### Olá eu sou Natan Braga 🛴
+### Olá, eu sou Natan Braga 🛴
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-braga-b6087323b/)
 \
