@@ -6,8 +6,6 @@
 \
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@NtanBraga)
 
-![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NtanBraga&show_icons=true&theme=radical)
-
 ## Tecnologias que uso diariamente
 
 <div style="display: inline_block"><br/>
